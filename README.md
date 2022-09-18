@@ -30,6 +30,8 @@ After 5 years as communication and marketing assistant, I'm ready to start a new
 
 ## GitHub stats
 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=valgab&show_icons=true&locale=en&layout=compact)  
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=valgab)  
 
 ## Contact
