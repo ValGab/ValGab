@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">After 5 years as communication and marketing assistant, I'm ready to start a new challenge and Im' happy to made projects as web developer.</p>
+<p align="left">After 5 years as communication and marketing assistant, I'm ready to start a new challenge and I'm happy to made projects as web developer.</p>
+
+[<img src="https://img.shields.io/badge/My Website-www.valentingbr.fr-green">](https://www.valentingbr.fr)
 
 ###
 
